@@ -1,3 +1,6 @@
 //SAYAC TYPELARI
 export const SAYAC_ARTTIR = 'SAYAC_ARTTIR';
 export const SAYAC_AZALT =   'SAYAC_AZALT';
+
+//LISTE TYPELARI
+export const LISTEYE_EKLE = 'LIST_EKLE';
